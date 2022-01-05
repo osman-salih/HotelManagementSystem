@@ -1,0 +1,16 @@
+ID,State,Type,Price,In Date,Out Date,Gender,Name,Age,Phone
+1,Reserved,single,50,2018/04/12,2018/04/15,Male,Çetin Sarıçayır,21,5324411123
+2,Reserved,single,50,2018/05/15,2018/05/15,Male,Can,21,5541238945
+3,Empty,single,50,0000/00/00,0000/00/00, , ,0,0
+4,Check-in,single,50,2018/06/10,2018/06/12,Female,Ayşe,30,5350653944
+5,Check-in,single,50,2018/06/10,2018/06/12,Female,Ayşe,30,5350653944
+6,Check-in,single,50,2018/06/10,2018/06/12,Female,Ayşe,30,5350653944
+7,Check-in,single,50,2018/06/10,2018/06/12,Female,Ayşe,30,5350653944
+8,Reserved,single,50,2018/06/10,2018/06/12,Female,Ayşe,30,5350653944
+9,Reserved,double,100,2018/06/13,2018/06/14,Female,Kübra,18,5346253811
+10,Empty,double,100,null,null,null,null,0,null
+11,Empty,double,100,null,null,null,null,0,null
+12,Empty,double,100,null,null,null,null,0,null
+13,Empty,double,100,null,null,null,null,0,null
+14,Empty,double,100,null,null,null,null,0,null
+15,Empty,double,100,null,null,null,null,0,null

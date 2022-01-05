@@ -1,0 +1,16 @@
+ID,State,Type,Price,In Date,Out Date,Gender,Name,Age,Phone
+1,Reserved,single,50,2018/04/12,2018/04/15,Male,Çetin,21,5324411123
+2,Reserved,single,50,2018/05/15,2018/05/15,Male,Can,21,5541238945
+3,Reserved,single,50,5346253811,double,Female,Osman,21,5387320331
+4,Reserved,single,50,5346253811,double,Female,Osman,21,5387320331
+5,Reserved,single,50,5346253811,double,Female,Osman,21,5387320331
+6,Reserved,single,50,5346253811,double,Female,Osman,21,5387320331
+7,Reserved,single,50,5346253811,double,Female,Osman,21,5387320331
+8,Reserved,single,50,5346253811,double,Female,Osman,21,5387320331
+9,Reserved,double,100,2018/06/8,2018/06/10,Female,Fatma,18,5346789745
+10,Empty,double,100,null,null,null,null,0,null
+11,Empty,double,100,null,null,null,null,0,null
+12,Empty,double,100,null,null,null,null,0,null
+13,Empty,double,100,null,null,null,null,0,null
+14,Empty,double,100,null,null,null,null,0,null
+15,Empty,double,100,null,null,null,null,0,null

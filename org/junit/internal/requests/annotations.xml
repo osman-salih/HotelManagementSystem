@@ -1,0 +1,7 @@
+<root>
+    <item name='org.junit.internal.requests.MemoizingRequest org.junit.runner.Runner createRunner()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
